@@ -1,2 +1,2 @@
-# Programming-Fundamentals
-Exercises performed using C and C++ language tools, during the Fundamentals of Programming course, during the 2nd year of Technical High School in Computer Science, at the Polytechnic School of Minas Gerais (POLIMIG).
+# Fundamentos de Programação
+Exercícios realizados utilizando ferramentas da linguagem C e C++, durante a disciplina Fundamentos de Programação, do 2º ano do Ensino Médio Técnico em Informática, da Escola Politécnica de Minas Gerais (POLIMIG).
